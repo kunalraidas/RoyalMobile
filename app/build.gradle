@@ -89,13 +89,13 @@ dependencies {
     implementation 'com.itextpdf.android:io-android:7.2.3'
 
     //liquid refresh layout
-    implementation 'com.github.mukeshsolanki:liquidrefreshlayout:1.0.3'
+   // implementation 'com.github.mukeshsolanki:liquidrefreshlayout:1.0.3'
 
     //onesignal
     implementation 'com.onesignal:OneSignal:[4.0.0, 4.99.99]'
 
     //ios like overscroll ;)
-    implementation 'com.github.valkriaine:Bouncy:2.3'
+ //   implementation 'com.github.valkriaine:Bouncy:2.3'
 
     //color picker
     implementation "com.github.skydoves:colorpickerview:2.2.4"
